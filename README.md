@@ -1,8 +1,10 @@
-## Iae, Me chamo Rubens Sousa Cunha.👋
+<h2>Iae, Me chamo Rubens Sousa Cunha. 👋</h2>
 
-- 🔭 Hoje eu trabalho com recepção e segurança ...
-- 🌱 Estudando IA na FURB ...
-- 😄 Pronouns: Ele/Dele ...
+<ul>
+  <li>💼 Hoje eu trabalho com recepção e segurança ...</li>
+  <li>🎓 Estudando IA na FURB ...</li>
+  <li>🗣️ Pronouns: Ele/Dele ...</li>
+</ul>
 
 <div>
   <a href="https://beacons.ai/KzRubens">
