@@ -33,8 +33,6 @@
       </tr>
     </table>
 
-  <img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1c/Shaco_OriginalCentered.jpg/revision/latest?cb=20180414203546" alt="Shaco" width="400"/>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Rubens_Kriz)
 
   </div>
