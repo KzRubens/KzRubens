@@ -4,7 +4,7 @@
 - 🌱 Estudando IA na FURB ...
 - 😄 Pronouns: Ele/Dele ...
 
-<div>
+  <div>
   <a href="https://github.com/KzRubens">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KzRubens&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
