@@ -4,7 +4,7 @@
   <ul align="left" style="display: inline-block;">
     <li>💼 Hoje eu trabalho com recepção e segurança ...</li>
     <li>🎓 Estudando IA na FURB ...</li>
-    <li>🗣️ Pronouns: Ele/Dele ...</li>
+    <li>🗣️ Pronomes: Ele/Dele ...</li>
   </ul>
 
   <h2>KzRubens GitHub Stats</h2>
