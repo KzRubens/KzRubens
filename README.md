@@ -10,7 +10,6 @@
 
 ### 💻 Desenvolvedor em formação • 🤖 IA • 📊 Dados • 🐍 Python
 
-![Profile Views](https://komarev.com/ghpvc/?username=KzRubens&color=0e75b6&style=for-the-badge)
 
 </div>
 
