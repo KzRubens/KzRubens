@@ -1,53 +1,38 @@
-# 👋 Iae, me chamo Rubens Sousa Cunha!
+<!--
+████████████████████████████████████████████████████████████
+                    RUBENS SOUSA CUNHA
+████████████████████████████████████████████████████████████
+-->
 
-> 💻 Apaixonado por tecnologia, programação e aprendizado contínuo.
+<div align="center">
 
----
+# 👋 Iae, me chamo **Rubens Sousa Cunha**
 
-### 🚀 Sobre mim
+### 💻 Desenvolvedor em formação • 🤖 IA • 📊 Dados • 🐍 Python
 
-- 💼 Hoje eu trabalho com **recepção e segurança**
-- 🎓 Estudando **Inteligência Artificial na FURB**
-- 🧠 Aprendendo cada vez mais sobre **Python, SQL, Git e IA**
-- 👤 Pronomes: **Ele/Dele**
-- 🎯 Objetivo: evoluir na área de tecnologia e desenvolvimento
+![Profile Views](https://komarev.com/ghpvc/?username=KzRubens&color=0e75b6&style=for-the-badge)
 
----
-
-## 🧑‍💻 Tecnologias que estou estudando
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,docker,vscode" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KzRubens&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzRubens&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+```python
+class Rubens:
 
----
+    nome = "Rubens Sousa Cunha"
+    pronomes = "Ele/Dele"
 
-## 🐍 Minhas contribuições
+    trabalho = "Recepção e Segurança"
+    estudos = "Inteligência Artificial - FURB"
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KzRubens/KzRubens/output/github-contribution-grid-snake-dark.svg" />
-</p>
+    interesses = [
+        "Programação",
+        "Inteligência Artificial",
+        "Machine Learning",
+        "Dados",
+        "Banco de Dados"
+    ]
 
----
-
-## 🎯 Atualmente
-
-```javascript
-const rubens = {
-    nome: "Rubens Sousa Cunha",
-    foco: ["Inteligência Artificial", "Programação", "Dados"],
-    linguagens: ["Python", "JavaScript", "SQL"],
-    ferramentas: ["Git", "GitHub", "Docker", "VS Code"],
-    objetivo: "Aprender, criar e evoluir 🚀"
-};
-
-console.log("Building the future, one commit at a time! 🚀");
+    objetivo = "Aprender, criar e evoluir 🚀"
