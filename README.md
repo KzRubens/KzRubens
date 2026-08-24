@@ -1,39 +1,53 @@
-<div align="center">
-  <h1>Iae, Me chamo Rubens Sousa Cunha. 👋</h1>
-  
-  <ul align="left" style="display: inline-block;">
-    <li>💼 Hoje eu trabalho com recepção e segurança ...</li>
-    <li>🎓 Estudando IA na FURB ...</li>
-    <li>🗣️ Pronomes: Ele/Dele ...</li>
-  </ul>
+# 👋 Iae, me chamo Rubens Sousa Cunha!
 
-  <h2>KzRubens GitHub Stats</h2>
+> 💻 Apaixonado por tecnologia, programação e aprendizado contínuo.
 
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <table border="1" cellpadding="10">
-      <tr>
-        <td>⭐ Total Stars:</td>
-        <td>0</td>
-      </tr>
-      <tr>
-        <td>💬 Total Commits:</td>
-        <td>0</td>
-      </tr>
-      <tr>
-        <td>🔀 Total PRs:</td>
-        <td>0</td>
-      </tr>
-      <tr>
-        <td>🐛 Total Issues:</td>
-        <td>0</td>
-      </tr>
-      <tr>
-        <td>📊 Contributed In:</td>
-        <td>0</td>
-      </tr>
-    </table>
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Rubens_Kriz)
+### 🚀 Sobre mim
 
-  </div>
-</div>
+- 💼 Hoje eu trabalho com **recepção e segurança**
+- 🎓 Estudando **Inteligência Artificial na FURB**
+- 🧠 Aprendendo cada vez mais sobre **Python, SQL, Git e IA**
+- 👤 Pronomes: **Ele/Dele**
+- 🎯 Objetivo: evoluir na área de tecnologia e desenvolvimento
+
+---
+
+## 🧑‍💻 Tecnologias que estou estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,docker,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KzRubens&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzRubens&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KzRubens/KzRubens/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 Atualmente
+
+```javascript
+const rubens = {
+    nome: "Rubens Sousa Cunha",
+    foco: ["Inteligência Artificial", "Programação", "Dados"],
+    linguagens: ["Python", "JavaScript", "SQL"],
+    ferramentas: ["Git", "GitHub", "Docker", "VS Code"],
+    objetivo: "Aprender, criar e evoluir 🚀"
+};
+
+console.log("Building the future, one commit at a time! 🚀");
